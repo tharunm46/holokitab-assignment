@@ -1,0 +1,119 @@
+body{
+  font-family: Montserrat;
+  text-align: center;
+}
+
+.red {
+  color:#ff0000;
+  background: none;
+  text-align: center;
+}
+.orange{
+  color: #FF8C00;
+  display: inline-block;
+  word-spacing: 30px;
+}
+
+
+#cont2{
+  padding-top: 50px;
+  padding-bottom: 0;
+  line-height: 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  text-align: center;
+}
+.col-lg-6{
+  padding-top: 50px;
+}
+
+/*white conatainer*/
+#white-container{
+  padding-top: 0;
+}
+#pricing{
+  text-align: center;
+}
+
+
+/* navigation Bar */
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: Montserrat;
+  font-weight: 300;
+}
+.navbar-nav {
+  margin-left: auto;
+}
+
+
+
+
+/*carousel*/
+.d-block w-100{
+  width: 25%;
+  height: 30%;
+}
+
+.btn btn-danger btn-lg download-button{
+  position: relative;
+  border: 10px;
+}
+
+
+.row{
+  text-align: center;
+}
+
+/*images*/
+
+.tittle-img{
+  width: auto;
+  height: 50%;
+}
+
+.press-img{
+  width: 12%;
+  margin: 20px 20px 50px;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+
+}
+
+/*press*/
+#press{
+  text-align: center;
+}
+
+/*features*/
+#features{
+  text-align: center;
+}
+.f-img{
+  width: 40%;
+}
+
+/*ar*/
+
+#ar{
+  text-align: center;
+  padding: 7% 15%;
+}
+.ar-img{
+  width: 50%;
+}
